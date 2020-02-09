@@ -12,6 +12,7 @@ Em seguida rode:
 
 ### `npm start`
 
+
 ◉ Usando `Yarn`:
 
 ### `yarn`
@@ -19,5 +20,6 @@ Em seguida rode:
 Em seguida rode:
 
 ### `yarn start`
+
 
 Acesse http://localhost:3000/ no seu navegador e utilize a aplicação.
