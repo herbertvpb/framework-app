@@ -4,7 +4,7 @@ Projeto criado através do [Create React App](https://github.com/facebook/create
 
 No diretório do projeto rode:
 
-#Usando `NPM`:
+####Usando `NPM`:
 
 ### `npm install`
 
@@ -12,7 +12,7 @@ Em seguida rode:
 
 ### `npm start`
 
-#Usando `Yarn`:
+####Usando `Yarn`:
 
 ### `yarn`
 
